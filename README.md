@@ -31,3 +31,21 @@ These scripts should be used after fresh installation of an OS. <br/>
 | Feature | FreeBSD | OpenBSD | Comment |
 |:--------|:--------|:--------|:--------|
 | Linux Binary Compatibility | TODO | - | - |
+
+## Usage
+In order to use these scripts follow the below steps:
+```shell
+# [Optional] Go to the temporary directory
+cd /tmp
+
+# Clone current repo
+git clone https://github.com/SejBSD/Scripts.git
+
+# Go into the directory
+cd Scripts
+
+# Execute initial (main) script
+sh ./Configure.sh
+
+# Follow the instructions on the screen
+```
