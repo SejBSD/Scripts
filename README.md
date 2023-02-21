@@ -13,8 +13,8 @@ These scripts should be used after fresh installation of an OS. <br/>
 |:-----|:--------|:--------|:--------|
 | Update OS | - | - | - |
 | Configure Package Manager | - | - | - |
-| Update Package Manager | - | - | - |
-| Create / Get User | - | - | This step should specify user for whom OS is being configured |
+| Update Packages | - | - | - |
+| Configure User | - | - | This step should specify user for whom OS is being configured |
 | Elevate User Permissions | - | - | Mainly adds User from previous step to wheel group |
 | Configure X.Org | - | - | - |
 | Configure Video Drivers | - | - | - |
